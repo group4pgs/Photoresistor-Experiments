@@ -1,15 +1,9 @@
 
-# coding: utf-8
-
-# In[2]:
-
 
 import pandas
 import serial
 import datetime
 
-
-# In[10]:
 
 
 df = pandas.DataFrame(columns=('sl','time','light'))
